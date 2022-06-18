@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964280988498",
+    "firebase_url": "https://fcm-demo-2a731.firebaseio.com",
+    "project_id": "fcm-demo-2a731",
+    "storage_bucket": "fcm-demo-2a731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964280988498:android:08379a888ba0363ffb408b",
+        "android_client_info": {
+          "package_name": "com.reactnativelearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964280988498-f0nnt2v18n9nb7r1f07h0sgtn17iii8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyg5UXQ8vYPDnKNWMYG5BFy8Qga2vzXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964280988498-f0nnt2v18n9nb7r1f07h0sgtn17iii8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
